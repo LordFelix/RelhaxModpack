@@ -2392,7 +2392,7 @@ namespace RelhaxModpack
             Polish.Add("FirstTimeUserModsWarning", "Ta zakładka umożliwia wybór modów, które możesz umieścić w folderze \"RelhaxUserMods\"" +
                 " Muszą to być archiwa ZIP używające struktury folderów takiej samej jak folder gry (domyślnie: World_of_Tanks)."); //? Ain't sure about how the root directory thing. ASSUMED: As in the same folder structure. @Nullmaruzero
             French.Add("FirstTimeUserModsWarning", "Cet onglet sert à sélectionner les fichiers zip que vous placez dans le dossier \"RelhaxUserMods\". Ils doivent être des fichiers zip et doivent utiliser un dossier de répertoire racine du répertoire \"World_of_Tanks\"");
-            Spanish.Add("FirstTimeUserModsWarning", "Esta pestaña es para seleccionar archivos zip en el directorio \"RelhaxUserMods\". Deben ser archivos zip, y derían usar un directorio raíz del directorio \"World_of_Tanks\"");
+            Spanish.Add("FirstTimeUserModsWarning", "Esta pestaña es para seleccionar archivos zip en el directorio \"RelhaxUserMods\". Deben ser archivos zip, y usar un directorio raíz del directorio \"World_of_Tanks\"");
             Russian.Add("FirstTimeUserModsWarning", "Данная вкладка предназначена для выбора модов, расположенных в папке \"RelhaxUserMods\". Они должны быть в виде ZIP-архивов и использовать корневую папку World of Tanks.");
 
             //Component: downloadingDatabase
@@ -3624,7 +3624,7 @@ namespace RelhaxModpack
             German.Add("InstallationCompleteStartGameCenter", "WG Game Center");
             Polish.Add("InstallationCompleteStartGameCenter", "Uruchomić WG Game Center?");
             French.Add("InstallationCompleteStartGameCenter", "Démarrer WG Game Center?");
-            Spanish.Add("InstallationCompleteStartGameCenter", "¿Iniciar WG Game Center ?");
+            Spanish.Add("InstallationCompleteStartGameCenter", "¿Iniciar WG Game Center?");
             Russian.Add("InstallationCompleteStartGameCenter", "Запустить Wargaming.net Game Center?"); // *sigh* - DrWeb7_1
 
             //Component: InstallationCompleteOpenXVM
